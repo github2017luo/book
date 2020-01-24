@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 , CCTV1
+http://cctvcnch5ca.v.wscdns.com/live/cctv1_2/10793.m3u8
+#EXTINF:-1 , CCTV2
+http://cctvcnch5ca.v.wscdns.com/live/cctv2_2/10793.m3u8
+#EXTINF:-1 , CCTV3
+http://cctvcnch5ca.v.wscdns.com/live/cctv3_2/10793.m3u8
+#EXTINF:-1 , CCTV4
+http://cctvcnch5ca.v.wscdns.com/live/cctv4_2/10793.m3u8
+#EXTINF:-1 , CCTV6
+http://cctvcnch5ca.v.wscdns.com/live/cctv6_2/10793.m3u8
+#EXTINF:-1 , CCTV7
+http://cctvcnch5ca.v.wscdns.com/live/cctv7_2/10793.m3u8
+#EXTINF:-1 , CCTV8
+http://cctvcnch5ca.v.wscdns.com/live/cctv8_2/10793.m3u8
+#EXTINF:-1 , CCTV9
+http://cctvcnch5ca.v.wscdns.com/live/cctvjilu_2/10793.m3u8
+#EXTINF:-1 , CCTV10
+http://cctvcnch5ca.v.wscdns.com/live/cctv10_2/10793.m3u8
+#EXTINF:-1 , CCTV11
+http://cctvcnch5ca.v.wscdns.com/live/cctv11_2/10793.m3u8
+#EXTINF:-1 , CCTV12
+http://cctvcnch5ca.v.wscdns.com/live/cctv12_2/10793.m3u8
+#EXTINF:-1 , CCTV13
+http://cctvcnch5ca.v.wscdns.com/live/cctv13_2/10793.m3u8
+#EXTINF:-1 , CCTV14
+http://cctvcnch5ca.v.wscdns.com/live/cctvchild_2/10793.m3u8
+#EXTINF:-1 , CCTV15
+http://cctvcnch5ca.v.wscdns.com/live/cctv15_2/10793.m3u8
+#EXTINF:-1 , CCTV16
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 , CCTV-17
+https://cctvcnch5ca.v.wscdns.com/live/cctv17_2/10793.m3u8
