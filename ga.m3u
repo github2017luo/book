@@ -1,0 +1,155 @@
+#EXTM3U
+#EXTINF:-1 group-title="", 三立新闻2
+http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
+#EXTINF:-1 group-title="", TVBS新闻台2
+http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
+#EXTINF:-1 group-title="", 无线新闻台3
+http://pull.leshantangjt.com/live/cb9651f2b11a013c3a7122a72/playlist.m3u8
+#EXTINF:-1 group-title="", 无线新闻备1
+http://pull.leshantangjt.com/live/cb9651f2b11a013c3a7122a72/playlist.m3u8?wsSession=7666bdf5ff8ed0a7165faf82-158150710524798&wsIPSercert=96547fc89359888bd2e2bbb70dc50747&wsMonitor=0
+#EXTINF:-1 group-title="", 无线财经
+http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
+#EXTINF:-1 group-title="", 有线新闻台
+http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
+#EXTINF:-1 group-title="", 明珠台
+http://116.199.5.51/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 group-title="", HKS香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=a60da1b83143d678f0cc6c6b-158150887688236&wsIPSercert=96547fc89359888bd2e2bbb70dc50747&wsMonitor=0
+#EXTINF:-1 group-title="", 香港卫视卡式台
+http://aldirect.hls.huya.com/huyalive/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="", 凤凰中文
+http://liveali.ifeng.com/live/FHZW.m3u8
+#EXTINF:-1 group-title="", 凤凰资讯
+http://liveali.ifeng.com/live/FHZX.m3u8
+#EXTINF:-1 group-title="", 凤凰电影
+rtmp://58.200.131.2:1935/livetv/fhdy
+#EXTINF:-1 group-title="", 星空卫视
+http://116.199.5.52/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="", 阳光卫视
+http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
+#EXTINF:-1 group-title="", 三立新闻1
+http://pull.ws.anyrtc.io/live/f09d8a179ea24ee1a2c6a495d52fa75a.flv
+#EXTINF:-1 group-title="", 三立台湾台
+http://pull.ws.anyrtc.io/live/74a757f6661c49298d09d0209fb6b2d4.flv
+#EXTINF:-1 group-title="", 三立都会台
+http://pull.ws.anyrtc.io/live/cad244d344ae435c8eba911fae638f33.flv
+#EXTINF:-1 group-title="", inews
+http://pull.ws.anyrtc.io/live/c17003b07a85487994ebf9c8549069f2.flv
+#EXTINF:-1 group-title="", TVBS HD
+http://pull.ws.anyrtc.io/live/b5d643eee5f64eb4acd9998e7823c34f.flv
+#EXTINF:-1 group-title="", TVBS新闻台
+http://pull.ws.anyrtc.io/live/e6bd2115305a4492bded24092812df06.flv
+#EXTINF:-1 group-title="", TVBS欢乐台
+http://pull.ws.anyrtc.io/live/6a6a6adc393b4072af497068cebd5def.flv
+#EXTINF:-1 group-title="", 非凡商业HD
+http://pull.ws.anyrtc.io/live/9a5176b21f75431999da64ac263966af.flv
+#EXTINF:-1 group-title="", 寰宇新闻1台
+http://pull.ws.anyrtc.io/live/5465d3ba2285405aa3707ff872add504.flv
+#EXTINF:-1 group-title="", 寰宇新闻2台
+http://pull.ws.anyrtc.io/live/f6470c9a2b19434f8704c4e054d5b2da.flv
+#EXTINF:-1 group-title="", 東森财经新闻
+http://pull.ws.anyrtc.io/live/995f1f92f44d4b4987feeef260dae7dc.flv
+#EXTINF:-1 group-title="", 東森新闻
+http://pull.ws.anyrtc.io/live/6824f1f3843743eea9b63c6adf924fb7.flv
+#EXTINF:-1 group-title="", 東森超视
+https://hls.ws.anyrtc.io/live/595c9c21cb314893afa12f875619ac23.flv
+#EXTINF:-1 group-title="", 東森洋片
+https://hls.ws.anyrtc.io/live/9efeafc0f92842c89bd48b9eff87cf2d.flv
+#EXTINF:-1 group-title="", 東森综合
+https://hls.ws.anyrtc.io/live/075b5d6433b8496c82ebebc60da032d0.flv
+#EXTINF:-1 group-title="", 東森亚洲
+https://hls.ws.anyrtc.io/live/ea88928f211c49ec831307f8c3a94197.flv
+#EXTINF:-1 group-title="", 東森戏剧
+https://hls.ws.anyrtc.io/live/1030047acc9c48758ee5ad01a6cdca08.flv
+#EXTINF:-1 group-title="", 東森电影
+https://hls.ws.anyrtc.io/live/ab73fbe6fdee4f979d10bbc099490bac.flv
+#EXTINF:-1 group-title="", 東森幼幼
+https://hls.ws.anyrtc.io/live/aa53d2b0e5c646358571bc4ef661fe4f.flv
+#EXTINF:-1 group-title="", 纬来体育
+http://pull.ws.anyrtc.io/live/4a2609f7c815441882ab4aae4389cddb.flv
+#EXTINF:-1 group-title="", 纬来日本
+http://pull.ws.anyrtc.io/live/7022cd0b183943e0a83c24ff3137d1e7.flv
+#EXTINF:-1 group-title="", 纬来戏剧
+http://pull.ws.anyrtc.io/live/858bb95de260450ba8b6420c198b08f1.flv
+#EXTINF:-1 group-title="", 壹综合台
+http://pull.ws.anyrtc.io/live/e76f7070351c4d76af9e831ad10241b0.flv
+#EXTINF:-1 group-title="", 八大综合
+https://hls.ws.anyrtc.io/live/5e92618f3ac949e7adf1a35842047b72.flv
+#EXTINF:-1 group-title="", 八大娱乐
+https://hls.ws.anyrtc.io/live/17eb8069ba044d69a9c84d9c430d3129.flv
+#EXTINF:-1 group-title="", 纬来育乐
+http://pull.ws.anyrtc.io/live/c9f324a6129c4b52b2d93fd7a9c09b6d.flv
+#EXTINF:-1 group-title="", 纬来电影
+http://pull.ws.anyrtc.io/live/4f6bff0d1cd8427082b8dea88936808d.flv
+#EXTINF:-1 group-title="", 纬来综合台
+http://pull.ws.anyrtc.io/live/36a4cee2de1841c98c04e48943a08abd.flv
+#EXTINF:-1 group-title="", 星卫娱乐台
+http://pull.ws.anyrtc.io/live/9bd147b1517f495db0f6e3adb90a0c6f.flv
+#EXTINF:-1 group-title="", 台湾霹雳台
+http://pull.ws.anyrtc.io/live/ad964889782a4219803205fe5a072f60.flv
+#EXTINF:-1 group-title="", JET综合台
+http://pull.ws.anyrtc.io/live/6595249f21e34fb08412ae97a0ff01ad.flv
+#EXTINF:-1 group-title="", 世新综合
+http://pull.ws.anyrtc.io/live/956525ebfc5c4a53bb2d63a7ee58040b.flv
+#EXTINF:-1 group-title="", 228
+http://pull.ws.anyrtc.io/live/d43190f06d5646df9f96c8cbbcd455e2.flv
+#EXTINF:-1 group-title="", 迪思尼
+http://pull.ws.anyrtc.io/live/8168d549c11e4017b104662160561172.flv
+#EXTINF:-1 group-title="", 幸福空间居家
+http://pull.ws.anyrtc.io/live/a275b1f87f374fb4a035e0202630738d.flv
+#EXTINF:-1 group-title="", 海豚综合
+https://hls.ws.anyrtc.io/live/030ea1f6a3dc4f758a5b1e2429727265.flv
+#EXTINF:-1 group-title="", 生命电视
+http://pull.ws.anyrtc.io/live/5852f9bddc4241c0815ecc774de6c127.flv
+#EXTINF:-1 group-title="", 新视觉
+https://hls.ws.anyrtc.io/live/9673bf09a09949a482a515f041837b71.flv
+#EXTINF:-1 group-title="", ELEVEN体育1台
+https://hls.ws.anyrtc.io/live/83796efc1048427bb1d2218862ef9fb3.flv
+#EXTINF:-1 group-title="", 好消息2台
+http://pull.ws.anyrtc.io/live/0c9b55b107964c04a3ea7a494d567867.flv
+#EXTINF:-1 group-title="", 求索纪实
+https://hls.ws.anyrtc.io/live/ed2aba63e04949b0b4672304c430ebae.flv
+#EXTINF:-1 group-title="", 靖天卡通台
+http://pull.ws.anyrtc.io/live/241687db58c843eb88e681a7677e293f.flv
+#EXTINF:-1 group-title="", 靖洋卡通台
+http://pull.ws.anyrtc.io/live/cc33f5d76cdc4c25b2edcb8bffdec3f4.flv
+#EXTINF:-1 group-title="", 靖天国际台
+http://pull.ws.anyrtc.io/live/e63f055989b24a88849a98ab8b18eb3a.flv
+#EXTINF:-1 group-title="", 靖洋戏剧台
+http://pull.ws.anyrtc.io/live/10ea692990444555a2531244875350b0.flv
+#EXTINF:-1 group-title="", 靖天育乐台
+http://pull.ws.anyrtc.io/live/f68afb43e0364d05a754c6c4c44d8e7b.flv
+#EXTINF:-1 group-title="", 靖天资讯台
+http://pull.ws.anyrtc.io/live/8f8069a83d044ea7a900db0134bf83ba.flv
+#EXTINF:-1 group-title="", 靖天欢乐台
+http://pull.ws.anyrtc.io/live/1304bacc63694731ac596f13dcfda625.flv
+#EXTINF:-1 group-title="", 靖天映画
+http://pull.ws.anyrtc.io/live/073fe639153b43ad8b22a13cfdd99271.flv
+#EXTINF:-1 group-title="", 靖天日本台
+http://pull.ws.anyrtc.io/live/224a9503394441bdb24d6d1b5c1e978d.flv
+#EXTINF:-1 group-title="", fox福斯体育1台
+http://pull.ws.anyrtc.io/live/212c50a34bf341b6b9493e8702e318d0.flv
+#EXTINF:-1 group-title="", fox福斯体育2台
+http://pull.ws.anyrtc.io/live/35143a60526140f291bb6cd58e78e4cf.flv
+#EXTINF:-1 group-title="", fox福斯国际
+http://pull.ws.anyrtc.io/live/b38358340fcd491d9788bc03fe0caf8f.flv
+#EXTINF:-1 group-title="", fox体育3台
+http://pull.ws.anyrtc.io/live/b0945ce2364e471fadd760a489389955.flv
+#EXTINF:-1 group-title="", fox電影
+http://pull.ws.anyrtc.io/live/9ccc23c323e849dd8dc1c10eda666f38.flv
+#EXTINF:-1 group-title="", HBO HD
+http://pull.ws.anyrtc.io/live/fcb61c97850c4ac68bf608422ede367f.flv
+#EXTINF:-1 group-title="", 好莱坞電影
+http://pull.ws.anyrtc.io/live/ec0148ae910a4c7285f46a29e8cc35d2.flv
+#EXTINF:-1 group-title="", 龙翔电影
+https://hls.ws.anyrtc.io/live/bf6b286031dd41d0b99321485db34d34.flv
+#EXTINF:-1 group-title="", NHK华语视界
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 group-title="", 香港有线影视
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="", 香港佛佗教育
+http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+#EXTINF:-1 group-title="", now爆谷中文
+http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="", 星空卫视1
+http://116.199.5.51/hls/Fsv_chan_hls_se_idx=234&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
