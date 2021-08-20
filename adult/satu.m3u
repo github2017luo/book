@@ -1,0 +1,137 @@
+#EXTM3U
+ 
+#####== zaman now ==#####
+
+
+#EXTINF:-1,group-title="zaman now",ABD
+ http://ez-tracker.net/tv/ABD
+#EXTINF:-1,group-title="zaman now",ANTARA TV
+ http://118.97.167.8/jhos/antara.m3u8?stime=20180828110000&etime=20180828120000&encoded=0f70684f17ce893308256
+#EXTINF:-1,group-title="zaman now",ANTV
+ http://ez-tracker.net/tv/ANTV
+#EXTINF:-1,group-title="zaman now",AVAVA DIAMON
+ http://ez-tracker.net/tv/AVAVA_DIAMOND
+#EXTINF:-1,group-title="zaman now",BALI TV
+ http://118.97.167.8/jhos/balitv.m3u8?stime=20180828100000&etime=20180828110000&encoded=035945bc125c766e6a38f
+#EXTINF:-1,group-title="zaman now",BANDUNG TV
+ http://118.97.167.8/jhos/bandungtv.m3u8?stime=20180828110000&etime=20180828120000&encoded=01d62fe95e1aff47f4e33
+#EXTINF:-1,group-title="zaman now",BAYU TV
+ http://wms.klikhost.com/bayutv/live/playlist.m3u8
+#EXTINF:-1,group-title="zaman now",BERITA SATU
+ http://ez-tracker.net/tv/BERITA_SATU
+#EXTINF:-1,group-title="zaman now",BLACK DIAMOND
+ http://ez-tracker.net/tv/Black_Diamond
+#EXTINF:-1,group-title="zaman now",BMSTV
+ http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
+#EXTINF:-1,group-title="zaman now",BTV
+ http://122.248.32.234:1935/ch10/myStream/playlist.m3u8
+#EXTINF:-1,group-title="zaman now",CNN
+ http://ez-tracker.net/tv/CNN
+#EXTINF:-1,group-title="zaman now",CTV
+ http://ez-tracker.net/tv/CTV
+#EXTINF:-1,group-title="zaman now",DAAITV
+ http://ez-tracker.net/tv/DAAITV
+#EXTINF:-1,group-title="zaman now",DANG TV
+ https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
+#EXTINF:-1,group-title="zaman now",DANGDUT
+ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:-1,group-title="zaman now",DIAMOND EARTH
+ http://ez-tracker.net/tv/Diamond_Earth
+#EXTINF:-1,group-title="zaman now",DUTATV
+ http://ez-tracker.net/tv/Duta_TV
+#EXTINF:-1,group-title="zaman now",ELSHINTA TV
+ http://ez-tracker.net/tv/Elshinta
+#EXTINF:-1,group-title="zaman now",FOODIE
+ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+#EXTINF:-1,group-title="zaman now",GOLD DIAMOND
+ http://ez-tracker.net/tv/Gold_Diamond
+#EXTINF:-1,group-title="zaman now",GTV
+ http://ez-tracker.net/tv/GTV
+#EXTINF:-1,group-title="zaman now",HOME&LIVING
+ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+#EXTINF:-1,group-title="zaman now",INDOSIAR
+ http://ez-tracker.net/tv/Indosiar
+#EXTINF:-1,group-title="zaman now",INDOSIAR 2
+ http://ez-tracker.net/tv/Indosiar_2
+#EXTINF:-1,group-title="zaman now",INEWS
+ http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511541532132975/1024.m3u8
+#EXTINF:-1,group-title="zaman now",INTV
+ http://ez-tracker.net/tv/INTV
+#EXTINF:-1,group-title="zaman now",JAKARTA GLOBE
+ http://ez-tracker.net/tv/JAKARTA_GLOBE
+#EXTINF:-1,group-title="zaman now",JAKTV
+ http://edge.telin.swiftserve.com/live/LiveOONA/jaktv-804bbe1fd935/playlist.m3u8?stime=20180926220001&etime=20180927220001&encoded=0f8edb75b4f89c956466f
+#EXTINF:-1,group-title="zaman now",JEK TV
+ http://122.248.32.234:1935/ch14/myStream/playlist.m3u8
+#EXTINF:-1,group-title="zaman now",JTV
+ http://ez-tracker.net/tv/JTV
+#EXTINF:-1,group-title="zaman now",KIDS DIAMOND
+ http://ez-tracker.net/tv/Kids_Diamond
+#EXTINF:-1,group-title="zaman now",KLIK MUSIK
+ http://stream1.ninmedia.tv/live/xmedia-klikmusictv.stream_nin/playlist.m3u8
+#EXTINF:-1,group-title="zaman now",KOMPASTV
+ http://ez-tracker.net/tv/KOMPASTV
+#EXTINF:-1,group-title="zaman now",KOMPASTV 2
+ http://ez-tracker.net/tv/KOMPASTV_2
+#EXTINF:-1,group-title="zaman now",MADU TV
+ http://videostream.indostreamserver.com:1935/madufm/live/playlist.m3u8
+#EXTINF:-1,group-title="zaman now",MALEO CHANNEL
+ http://stream1.ninmedia.tv/live/xmedia-maleotv.stream_nin/playlist.m3u8
+#EXTINF:-1,group-title="zaman now",METRO TV
+ http://ez-tracker.net/tv/Metro_TV
+#EXTINF:-1,group-title="zaman now",MNCTV
+ http://ez-tracker.net/tv/MNC
+#EXTINF:-1,group-title="zaman now",MNCTV 2
+ http://ez-tracker.net/tv/MNC_2
+#EXTINF:-1,group-title="zaman now",MUGOSTV
+ https://streaming.mas-mas.it:8080/live/myStream/master.m3u8
+#EXTINF:-1,group-title="zaman now",Nada Muslim
+ http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
+#EXTINF:-1,group-title="zaman now",NET
+ http://ez-tracker.net/tv/Net
+#EXTINF:-1,group-title="zaman now",NET 2
+ http://ez-tracker.net/tv/Net_2
+#EXTINF:-1,group-title="zaman now",Nusantara TV
+ http://ez-tracker.net/tv/Nusantara_TV
+#EXTINF:-1,group-title="zaman now",PON TV
+ http://122.248.32.234:1935/ch15/myStream/playlist.m3u8
+#EXTINF:-1,group-title="zaman now",RADAR TV
+ http://122.248.32.234:1935/ch17/myStream/playlist.m3u8
+#EXTINF:-1,group-title="zaman now",RCTI
+ http://ez-tracker.net/tv/RCTI
+#EXTINF:-1,group-title="zaman now",RCTV
+ http://122.248.32.234:1935/ch9/myStream/playlist.m3u8
+#EXTINF:-1,group-title="zaman now",RED DIAMOND
+ http://ez-tracker.net/tv/Red_Diamond
+#EXTINF:-1,group-title="zaman now",RODJA TV
+ http://ez-tracker.net/tv/Rodja_TV
+#EXTINF:-1,group-title="zaman now",RTV
+ http://ez-tracker.net/tv/RTV
+#EXTINF:-1,group-title="zaman now",SCTV
+ http://ez-tracker.net/tv/SCTV
+#EXTINF:-1,group-title="zaman now",SFI
+ http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/chunklist_w2047066873.m3u8
+#EXTINF:-1,group-title="zaman now",SMI
+ http://stream1.ninmedia.tv/live/nin-smi.stream_nin/playlist.m3u8
+#EXTINF:-1,group-title="zaman now",TABALONG TV
+ http://stream1.ninmedia.tv/live/xmedia-tabalongtv.stream_nin/playlist.m3u8
+#EXTINF:-1,group-title="zaman now",TMusic
+ http://118.97.167.8/jhos/allegro.m3u8?stime=20180828230000&etime=20180829000000&encoded=0ccbf73b1c337c27949af
+#EXTINF:-1,group-title="zaman now",TRANS7
+ http://ez-tracker.net/tv/Trans7
+#EXTINF:-1,group-title="zaman now",TRANS7 2
+ http://ez-tracker.net/tv/Trans7_2
+#EXTINF:-1,group-title="zaman now",TRANSTV
+ http://ez-tracker.net/tv/TransTV
+#EXTINF:-1,group-title="zaman now",TV BMW
+ http://stream1.ninmedia.tv/live/nin-dc7.stream_nin/playlist.m3u8
+#EXTINF:-1,group-title="zaman now",TV Desa
+ http://ez-tracker.net/tv/TV_Desa
+#EXTINF:-1,group-title="zaman now",TVKU
+ http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1,group-title="zaman now",TVRI
+ http://ez-tracker.net/tv/TVRI
+#EXTINF:-1,group-title="zaman now",TVRI SPORT
+ http://ez-tracker.net/tv/TVRI_SPORT
+#EXTINF:-1,group-title="zaman now",WHITE DIAMOND
+ http://ez-tracker.net/tv/White_Diamond
