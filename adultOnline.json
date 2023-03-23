@@ -49,5 +49,22 @@
         "detailjs": "//li/a/text()",
         "detailjsurl": "//li/a/@href"
       }
-  ]
+  ],
+    "webyuan": [
+      {
+        "name": "独播库",
+        "playtext": "",
+        "searchUrl": "https://www.duboku.tv",
+        "detailtext": "movie",
+        "uatext":
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+        "searchname": "//div[@class=&&&moviedteail_tt&&&]/h1/text()",
+        "searchpic": "//div[@class=&&&dyimg fl&&&]/img/@src",
+        "detaillist": "//div[@class=&&&paly_list_btn&&&]",
+        "detailxl":
+            "//div[@class=&&&mi_ne_kd&&&]/div[@class=&&&ypxingq_t&&&]/span/text()",
+        "detailjs": "//a/text()",
+        "detailjsurl": "//a/@href"
+      }
+    ]
 }
