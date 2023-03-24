@@ -212,55 +212,55 @@
 
   }
 ],
-    "zhanyuan": [
-      {
-        "name": "花猫TV",
-        "searchUrl": "http://www.huamaotv.com",
-        "searchUA":
-            "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-        "playUA":
-            "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-        "websearchurl": "http://www.huamaotv.com/index.php?m=vod-search&wd=",
-        "searchname": "//h4[@class=&&&stui-vodlist__title&&&]/a/@title",
-        "searchid": "//li[@class=&&&stui-vodlist__item&&&]/a/@href",
-        "searchpic":
-            "//a[@class=&&&stui-vodlist__thumb lazyload&&&]/@data-original",
-        "searchstarr": "//span[@class=&&&pic-text&&&]/text()",
-        "detaillist": "//ul[@class=&&&stui-content__playlist clearfix&&&]",
-        "detailxl": "//div[@class=&&&stui-pannel__head clearfix&&&]/h3/text()",
-        "detailjs": "//li/a/text()",
-        "detailjsurl": "//li/a/@href"
-      }
-    ],
-    "webyuan": [
-      {
-        "name": "厂长电影",
-        "playtext": "",
-        "url": "https://www.czzzu.com/?s=",
-        "detailtext": "movie",
-        "uatext":
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-        "searchname": "//div[@class=&&&moviedteail_tt&&&]/h1/text()",
-        "searchpic": "//div[@class=&&&dyimg fl&&&]/img/@src",
-        "detaillist": "//div[@class=&&&paly_list_btn&&&]",
-        "detailxl":
-            "//div[@class=&&&mi_ne_kd&&&]/div[@class=&&&ypxingq_t&&&]/span/text()",
-        "detailjs": "//a/text()",
-        "detailjsurl": "//a/@href"
-      },
-      {
-        "name": "555影视",
-        "playtext": "vodplay",
-        "url": "https://www.555dd5.com/vodsearch/-------------.html?wd=",
-        "detailtext": "voddetail",
-        "uatext":
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-        "searchname": "//div[@class=&&&module-info-heading&&&]/h1/text()",
-        "searchpic": "//img[@class=&&&ls-is-cached lazy lazyload&&&]/@src",
-        "detaillist": "//div[@class=&&&module-play-list&&&]/div/",
-        "detailxl": "//*[@id=&&&y-playList&&&]/div/span/text()",
-        "detailjs": "//a/span/text()",
-        "detailjsurl": "//a/@href"
-      }
-    ]
+"zhanyuan": [
+  {
+    "name": "花猫TV",
+    "searchUrl": "http://www.huamaotv.com",
+    "searchUA":
+        "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+    "playUA":
+        "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+    "websearchurl": "http://www.huamaotv.com/index.php?m=vod-search&wd=",
+    "searchname": "//h4[@class=&&&stui-vodlist__title&&&]/a/@title",
+    "searchid": "//li[@class=&&&stui-vodlist__item&&&]/a/@href",
+    "searchpic":
+        "//a[@class=&&&stui-vodlist__thumb lazyload&&&]/@data-original",
+    "searchstarr": "//span[@class=&&&pic-text&&&]/text()",
+    "detaillist": "//ul[@class=&&&stui-content__playlist clearfix&&&]",
+    "detailxl": "//div[@class=&&&stui-pannel__head clearfix&&&]/h3/text()",
+    "detailjs": "//li/a/text()",
+    "detailjsurl": "//li/a/@href"
+  }
+],
+"webyuan": [
+  {
+    "name": "厂长电影",
+    "playtext": "",
+    "url": "https://www.czzzu.com/?s=",
+    "detailtext": "movie",
+    "uatext":
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "searchname": "//div[@class=&&&moviedteail_tt&&&]/h1/text()",
+    "searchpic": "//div[@class=&&&dyimg fl&&&]/img/@src",
+    "detaillist": "//div[@class=&&&paly_list_btn&&&]",
+    "detailxl":
+        "//div[@class=&&&mi_ne_kd&&&]/div[@class=&&&ypxingq_t&&&]/span/text()",
+    "detailjs": "//a/text()",
+    "detailjsurl": "//a/@href"
+  },
+  {
+    "name": "555影视",
+    "playtext": "vodplay",
+    "url": "https://www.555dd5.com/vodsearch/-------------.html?wd=",
+    "detailtext": "voddetail",
+    "uatext":
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "searchname": "//div[@class=&&&module-info-heading&&&]/h1/text()",
+    "searchpic": "//img[@class=&&&ls-is-cached lazy lazyload&&&]/@src",
+    "detaillist": "//div[@class=&&&module-play-list&&&]/div/",
+    "detailxl": "//*[@id=&&&y-playList&&&]/div/span/text()",
+    "detailjs": "//a/span/text()",
+    "detailjsurl": "//a/@href"
+  }
+]
 }
