@@ -214,13 +214,31 @@
 ],
 "zhanyuan": [
   {
-    "name": "花猫TV",
-    "searchUrl": "http://www.huamaotv.com",
+    "name": "欧乐影院",
+    "searchUrl": "https://www.olevod.com",
     "searchUA":
         "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
     "playUA":
         "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-    "websearchurl": "http://www.huamaotv.com/index.php?m=vod-search&wd=",
+    "websearchurl": "https://www.olevod.com/index.php/vod/search.html&submit=&wd=",
+    "searchname": "//h4[@class=&&&stui-vodlist__title&&&]/a/@title",
+    "searchid": "//li[@class=&&&stui-vodlist__item&&&]/a/@href",
+    "searchpic":
+        "//a[@class=&&&stui-vodlist__thumb lazyload&&&]/@data-original",
+    "searchstarr": "//span[@class=&&&pic-text&&&]/text()",
+    "detaillist": "//ul[@class=&&&stui-content__playlist clearfix&&&]",
+    "detailxl": "//div[@class=&&&stui-pannel__head clearfix&&&]/h3/text()",
+    "detailjs": "//li/a/text()",
+    "detailjsurl": "//li/a/@href"
+  },
+  {
+    "name": "独播库",
+    "searchUrl": "https://www.duboku.tv",
+    "searchUA":
+        "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+    "playUA":
+        "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+    "websearchurl": "https://www.duboku.tv/index.php/ajax/suggest?mid=1&wd=",
     "searchname": "//h4[@class=&&&stui-vodlist__title&&&]/a/@title",
     "searchid": "//li[@class=&&&stui-vodlist__item&&&]/a/@href",
     "searchpic":
@@ -234,9 +252,9 @@
 ],
 "webyuan": [
   {
-    "name": "厂长电影",
+    "name": "欧乐影院",
     "playtext": "",
-    "url": "https://www.czzzu.com/?s=",
+    "url": "https://www.olevod.com/index.php/vod/search.html&submit=&wd==",
     "detailtext": "movie",
     "uatext":
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -249,9 +267,9 @@
     "detailjsurl": "//a/@href"
   },
   {
-    "name": "555影视",
+    "name": "独播库",
     "playtext": "vodplay",
-    "url": "https://www.555dd5.com/vodsearch/-------------.html?wd=",
+    "url": "hhttps://www.duboku.tv/index.php/ajax/suggest?mid=1&wd=",
     "detailtext": "voddetail",
     "uatext":
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
