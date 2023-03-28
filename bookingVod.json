@@ -214,6 +214,24 @@
 ],
 "zhanyuan": [
   {
+    "name": "大师兄影院",
+    "searchUrl": "https://dsxys.pro",
+    "searchUA":
+        "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+    "playUA":
+        "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+    "websearchurl": "https://dsxys.pro/sb/ke7nhZe3c1-.html?wd=",
+    "searchname": "//h4[@class=&&&stui-vodlist__title&&&]/a/@title",
+    "searchid": "//li[@class=&&&stui-vodlist__item&&&]/a/@href",
+    "searchpic":
+        "//a[@class=&&&stui-vodlist__thumb lazyload&&&]/@data-original",
+    "searchstarr": "//span[@class=&&&pic-text&&&]/text()",
+    "detaillist": "//ul[@class=&&&stui-content__playlist clearfix&&&]",
+    "detailxl": "//div[@class=&&&stui-pannel__head clearfix&&&]/h3/text()",
+    "detailjs": "//li/a/text()",
+    "detailjsurl": "//li/a/@href"
+  },
+  {
     "name": "欧乐影院",
     "searchUrl": "https://www.olevod.com",
     "searchUA":
